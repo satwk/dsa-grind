@@ -3,6 +3,7 @@
 # Tags: [Queue, Simulation, Greedy]
 # Link: https://leetcode.com/problems/time-needed-to-buy-tickets/
 # ---
+
 '''
 Approach:
 isme basically queue lgna tha but maine greedy maths se har step pe number of tickets bought nikalke maths ka savaal bnadiya ise
