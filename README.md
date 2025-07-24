@@ -9,7 +9,7 @@ This repo is a growing collection of my solutions, approaches, mistakes and ever
 
 - My collection of LeetCode solutions, organised by category
 - Explanations so I don't forget what I was thinking
-- Time and space complexities — because brute force is only fun once
+- Time and space complexities - because brute force is only fun once
   
 ---
 
@@ -25,9 +25,9 @@ Also, I like seeing green GitHub squares. It feels productive. Don't judge.
 
 # 📊 Stats
 
-- ✅ Problems Solved: 69 (nice!)
-- 🔢 Longest Streak: 65 days (not sure if I'm proud or concerned)
-- 📜 Languages: Python for now — less syntax, more thinking
+- ✅ Problems Solved: 110 :)
+- 🔢 Longest Streak: 100 days (i'm proud)
+- 📜 Languages: Python for now - less syntax, more thinking
 - 🚀 Goal: At least one problem a day, rain or recursion
 
 ---
